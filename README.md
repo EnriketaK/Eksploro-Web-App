@@ -1,6 +1,4 @@
-Web App per biznes qe merret me turizem ne plazhe. 
-
-"Eksploro me ne" sherben per te terhequr vemendjen e klienteve drejt plazheve.
+Achieved to design a sleek and modern looking website using inheritance and code reusability. 
 
 ![Screenshot 2021-11-18 110648](https://user-images.githubusercontent.com/57449723/142395584-f3a2d76f-9c0f-49ff-a193-b8cfe4eaf790.png)
 ![Screenshot 2021-11-18 110716](https://user-images.githubusercontent.com/57449723/142395583-8126b067-99ec-4804-b874-b83b69743bc8.png)
